@@ -1,0 +1,88 @@
+@import constants
+
+@-webkit-keyframes rotateIn
+    0%
+        opacity: 0
+        -webkit-transform: perspective(400px) rotateY(90deg)
+    40%
+        -webkit-transform: perspective(400px) rotateY(-10deg)
+    70%
+        -webkit-transform: perspective(400px) rotateY(10deg)
+    100%
+        -webkit-transform: perspective(400px) rotateY(0deg)
+        opacity: 1
+
+@-webkit-keyframes tweak
+    0%
+        opacity: 0
+        -webkit-transform: rotate(30deg)
+    100%
+        opacity: 1
+        -webkit-transform: rotate(30deg)
+
+.hero-full
+    height: 100%
+    position: relative
+
+    .jumbo
+        height: 100%
+        position: relative
+        margin-bottom: 0
+        background-color: #2a363c
+        // background: url(/images/sunset-background-low-quality.jpg) no-repeat center center
+        background-repeat: no-repeat
+        background-position: center
+        background-attachment: center
+        -webkit-background-size: cover
+        -moz-background-size: cover
+        -o-background-size: cover
+        background-size: cover
+
+        .home-container
+            position: absolute
+            top: 50%
+            left: 50%
+            transform: translate3d(-50%, -50%, 0)
+            text-align: center
+            color: $textDark
+
+            .main-headshot
+                width: 250px
+                height: 250px
+                box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.2)
+
+            h1
+                font-weight: 100
+                text-shadow: 0px 1px 1px rgba(0,0,0,0.6)
+                color: $textLight
+
+            p
+                font-weight: 100
+                font-size: 14px
+                color: $textLight
+
+            a
+                color: $textLight
+                padding: 0 10px
+
+                &:hover
+                    color: $textSuppressed
+                    text-decoration: none
+
+            .scroll-cta
+                margin-top: 100px
+                color: $textLight
+
+.homepage-wrapper
+    width: 940px
+    background-color: $offWhite
+
+.chunk-wrapper
+    background-color: $offWhite
+    text-align: center
+    padding: 0em 0em 3em 0em
+
+.work-preview
+    img
+        width: 120px
+        height: 120px

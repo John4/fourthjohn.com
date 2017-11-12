@@ -1,0 +1,17 @@
+box: wercker/rvm
+build:
+    # The steps that will be executed on build
+    steps:
+        - wercker/rvm-use:
+            version: 2.3.0
+        - bundle-install
+        - script:
+            name: Generate site.
+            code: bundle exec jekyll build --trace
+
+deploy:
+    steps:
+        - hijonathan/gh-pages:
+            token: $GIT_TOKEN
+            srcdir: _site
+            domain: fourthjohn.com

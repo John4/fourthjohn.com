@@ -1,0 +1,20 @@
+---
+layout: back-header
+title: portfolio
+---
+
+
+<div class="half-hero">
+  <div class="content-wrapper">
+    <div class="content-container">
+      {% for work in site.portfolio reversed %}
+        <a class='unstyled-link' href="{{ work.url }}">
+          <h1 class='work-title'>
+              <span class="parent-dir"> / </span>
+              {{ work.title }}
+          </h1>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,40 @@
+.sub-contact
+    background-color: inherit
+    text-align: left
+    padding: 1em 0
+
+.contact-link
+    display: table
+    table-layout: fixed
+    width: 100%
+    padding: 15px 0 0 0
+
+    i, h4
+        display: table-cell
+        position: relative
+
+    i
+        text-align: center
+
+    h2
+        margin: 4px 0
+        font-weight: 300
+
+.contact-ship
+    margin: 0 auto
+    width: 100%
+    text-align: center
+
+    img
+        animation-name: float
+        animation-duration: 6s
+        animation-iteration-count: infinite
+        animation-timing-function: ease-in-out
+
+@keyframes float
+    0%
+        transform: translate(0, 0px)
+    65%
+        transform: translate(0, 7px)
+    100%
+        transform: translate(0, 0px)
