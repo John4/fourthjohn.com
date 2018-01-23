@@ -14,6 +14,21 @@ type: work
 
 #Computer Science
 
+###Game Artificial Intelligence
+2018 @ Northeastern University w/ [Kevin Gold](https://www.ccis.northeastern.edu/people/kevin-gold/)<br>
+
+---
+
+###Law, Ethics and Policy of Technology
+2018 @ Northeastern University w/ [Woodrow Hartzog](https://www.northeastern.edu/law/faculty/directory/hartzog.html)<br>
+
+---
+
+###Software Development
+2018 @ Northeastern University w/ [Jose Annunziato](https://github.com/jannunzi)<br>
+
+---
+
 ###Advanced Technical Writing
 2017 @ Northeastern University w/ [Chris Featherman](https://www.northeastern.edu/cssh/faculty/christopher-featherman)<br>
 
@@ -89,6 +104,11 @@ Python
 <br>
 
 #Philosophy
+
+###Philosophy of Mind
+2018 @ Northeastern University w/ William DeAngelis<br>
+
+---
 
 ###Epistemology
 2016 @ Northeastern University w/ [Rory Smead](https://www.northeastern.edu/cssh/faculty/rory-smead)<br>
