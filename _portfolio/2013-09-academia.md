@@ -60,6 +60,8 @@ type: work
 ###Networks and Distributed Systems
 2016 @ Northeastern University w/ [Christo Wilson](http://www.ccs.neu.edu/home/cbw/)<br>
 
+[Raft Consensus Algorithm](https://github.com/john4/raft-implementation/blob/master/3700kvstore)
+
 ---
 
 ###Algorithms & Data Structures
