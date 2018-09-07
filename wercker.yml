@@ -4,7 +4,9 @@ build:
     steps:
         - wercker/rvm-use:
             version: 2.3.0
-        - bundle-install
+        - script:
+            name: bundle install
+            code: bundle install --path /cache/bundle-install/
         - script:
             name: Generate site.
             code: bundle exec jekyll build --trace
