@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Appcues
-description: content coming soon...
+description:
 thumb: /images/portfolio/appcues-mark-square.png
 date: 2017
 source:

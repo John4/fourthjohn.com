@@ -1,7 +1,7 @@
 ---
 layout: work
 title: academia
-description: content coming soon...
+description:
 thumb: /images/portfolio/academia.png
 date: 2013
 source:

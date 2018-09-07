@@ -19,10 +19,22 @@ Ever DJing a party and end up having the aux cord pulled from you by unsatisfied
 
 <b>Crowd DJ won Best UI/Design at HackBeanpot 2017.</b> It's built with React, Firebase, and a Chrome Extension. Use it at your next party.
 
-<a href="/images/portfolio/crowddj-home.png"><img src="/images/portfolio/crowddj-home.png" style='width:400px'></a>
+<a href="/images/portfolio/crowddj-home.png"><img src="/images/portfolio/crowddj-home.png" style='width:400px; max-width:100%'></a>
 
-<a href="/images/portfolio/crowddj-list.png"><img src="/images/portfolio/crowddj-list.png" style='width:400px'></a>
+<a href="/images/portfolio/crowddj-list.png"><img src="/images/portfolio/crowddj-list.png" style='width:400px; max-width:100%'></a>
 
-<a href="/images/portfolio/crowddj-search.png"><img src="/images/portfolio/crowddj-search.png" style='width:400px'></a>
+<a href="/images/portfolio/crowddj-search.png"><img src="/images/portfolio/crowddj-search.png" style='width:400px; max-width:100%'></a>
 
 <a href="/images/portfolio/crowddj-dj.png"><img src="/images/portfolio/crowddj-dj.png" style='width:100%'></a>
+
+<br />
+<br />
+<br />
+
+# Era of Kingdoms
+
+<a href="https://github.com/john4/era_of_kingdoms">https://github.com/john4/era_of_kingdoms</a>
+
+Era of Kingdoms was originally a capstone computer science project. It's a realtime strategy game powered by artificial intelligence. Inspired by games like Civilization and Stronghold, Era of Kingdoms lets you build a society of citizens and soldiers, balance natural resources on a randomly-generated terrain, and fight an enemy kingdom controlled by AI behavior trees.
+
+<a href="/images/portfolio/era-of-kingdoms.png"><img src="/images/portfolio/era-of-kingdoms.png" style="width:100%" /></a>
