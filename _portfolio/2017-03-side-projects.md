@@ -35,6 +35,6 @@ Ever DJing a party and end up having the aux cord pulled from you by unsatisfied
 
 <a href="https://github.com/john4/era_of_kingdoms">https://github.com/john4/era_of_kingdoms</a>
 
-Era of Kingdoms was originally a capstone computer science project. It's a realtime strategy game powered by artificial intelligence. Inspired by games like Civilization and Stronghold, Era of Kingdoms lets you build a society of citizens and soldiers, balance natural resources on a randomly-generated terrain, and fight an enemy kingdom controlled by AI behavior trees.
+Era of Kingdoms was originally a capstone computer science project. It's a real-time strategy game powered by artificial intelligence. Inspired by games like Civilization and Stronghold, Era of Kingdoms lets you build a society of citizens and soldiers, balance natural resources on a randomly-generated terrain, and fight an enemy kingdom controlled by AI behavior trees.
 
 <a href="/images/portfolio/era-of-kingdoms.png"><img src="/images/portfolio/era-of-kingdoms.png" style="width:100%" /></a>

@@ -17,10 +17,16 @@ type: work
 ###Game Artificial Intelligence
 2018 @ Northeastern University w/ [Kevin Gold](https://www.ccis.northeastern.edu/people/kevin-gold/)<br>
 
+[Era of Kingdoms (Real-Time Strategy Game)](https://github.com/john4/era_of_kingdoms/)
+
 ---
 
 ###Law, Ethics and Policy of Technology
 2018 @ Northeastern University w/ [Woodrow Hartzog](https://www.northeastern.edu/law/faculty/directory/hartzog.html)<br>
+
+[Watch the Road: An Ethical and Policy Analysis of License Plate Reader Systems](/docs/watch-the-road.pdf)
+
+[The DOJ's Trojan: A Legal Analysis of Rule 41 and Remote Search and Seizure of Botnets](/docs/dojs-trojan.pdf)
 
 ---
 
