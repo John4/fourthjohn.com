@@ -12,6 +12,13 @@ type: work
 ---
 
 
+#Publications
+
+###[Who's the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild](/docs/Jiang_Martin_Wilson.pdf)
+Presented at [ACM FAT* 2019](https://fatconference.org)
+
+<br>
+
 #Computer Science
 
 ###Game Artificial Intelligence
